@@ -1,3 +1,3 @@
 module github.com/foeberg/aoc
 
-go 1.21
+go 1.25
